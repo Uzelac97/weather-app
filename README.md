@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL:
+- Live Site URL: https://weather-app-lanmi.netlify.app/
 
 ---
 
