@@ -9,8 +9,6 @@ import rainIcon from "../assets/rain.png";
 import snowIcon from "../assets/snow.png";
 import windIcon from "../assets/wind.png";
 
-console.log("API KEY:", import.meta.env.VITE_APP_ID);
-
 const Weather = () => {
   const inputRef = useRef();
   const [weatherData, setWeatherData] = useState(false);
